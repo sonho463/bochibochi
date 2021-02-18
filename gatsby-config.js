@@ -27,7 +27,7 @@ module.exports = {
       options: {
         // the only required plugin option for WordPress is the GraphQL url.
         url:
-          `https://horumont.info/graphql`,
+					`https://horumont.info/graphql`,
       },
     },
 
